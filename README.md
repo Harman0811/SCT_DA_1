@@ -1,6 +1,6 @@
 # Supermarket Sales Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an Excel-based Sales Dashboard created using Superstore Sales Data.
 
@@ -38,13 +38,12 @@ The dataset was checked and cleaned for:
 
 ## 📈 Key Performance Indicators
 
-| KPI | Value |
-|---|---:|
-| Total Sales | ₹22,61,536.78 |
-| Unique Orders | 4,922 |
-| Average Sales per Order | ₹459.48 |
+KPI : Value 
+Total Sales : ₹22,61,536.78 
+Unique Orders : 4,922 
+Average Sales per Order : ₹459.48 
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Sales by Category
 
@@ -81,13 +80,13 @@ The Excel workbook contains:
 - Top Customers analysis
 - Final Sales Dashboard
 
-## ⚠️ Data Limitation
+## Data Limitation
 
 The provided dataset does not contain a `Profit` column. Therefore, Profit by Category could not be calculated from the supplied dataset without introducing unsupported or fabricated values.
 
 The analysis and dashboard therefore focus on the available sales data.
 
-## 📁 Project File
+## Project File
 
 The complete Excel workbook containing the dataset, Pivot Tables, analysis, and dashboard is included in this repository.
 
