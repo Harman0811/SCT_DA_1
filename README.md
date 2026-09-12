@@ -70,6 +70,8 @@ Average Sales per Order : ₹459.48
 
 ## 📊 Dashboard
 
+![Sales Dashboard](Dashboard.png)
+
 The Excel workbook contains:
 
 - Cleaned dataset
